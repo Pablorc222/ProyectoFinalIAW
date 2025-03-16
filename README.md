@@ -16,8 +16,7 @@ FootStore es una aplicación web de comercio electrónico especializada en la ve
 
 ### Objetivos Técnicos
 - Utilizar arquitectura MVC (Modelo-Vista-Controlador)
-- Implementar seguridad en las transacciones y autenticación
-- Crear una aplicación responsive y accesible
+- Crear una aplicación accesible
 - Optimizar el rendimiento de la aplicación
 - Usar contenedores Docker para despliegue y desarrollo
 
@@ -27,12 +26,10 @@ FootStore es una aplicación web de comercio electrónico especializada en la ve
 ### Sistema de Autenticación
 - Registro e inicio de sesión de usuarios
 - Roles de usuario (admin y cliente)
-- Gestión de sesiones segura
 
 ### Catálogo de Productos
 - Visualización de botas de fútbol
 - Detalles completos de productos
-- Filtrado y búsqueda de productos
 
 ### Carrito de Compras
 - Añadir y eliminar productos
@@ -46,7 +43,7 @@ FootStore es una aplicación web de comercio electrónico especializada en la ve
 
 ---
 
-## 🛠️ Arquitectura Técnica
+## Arquitectura Técnica
 ### Estructura de Directorios
 ```
 FootStore/
