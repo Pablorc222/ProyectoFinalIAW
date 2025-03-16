@@ -2,7 +2,7 @@
 class Database {
     public static function connect() {
         $host = 'mariadb'; // Nombre del servicio en Docker Compose
-        $dbname = 'Tienda';
+        $dbname = 'Tiendadezapatillas';
         
         try {
             $dsn = 'mysql:host=' . $host . ';dbname=' . $dbname . ';charset=UTF8';
