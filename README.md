@@ -2,7 +2,7 @@
 # FootStore ⚽
 
 ## Introducción
-FootStore es una aplicación web de comercio electrónico especializada en la venta de botas de fútbol, desarrollada como proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW). La plataforma ofrece una experiencia de compra completa e intuitiva para entusiastas del fútbol.
+FootStore es una aplicación web de comercio electrónico especializada en la venta de botas de fútbol, desarrollada como proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW). La plataforma ofrece una experiencia de compra completa para aficionados del fútbol.
 
 ---
 
